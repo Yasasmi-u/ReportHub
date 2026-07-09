@@ -8,6 +8,9 @@ Mini/node_modules/
 Mini/frontend/node_modules/
 Mini/backend/node_modules/
 
+# Ignore per-user npm config in Mini
+Mini/.npmrc
+
 # Environment files
 .env
 *.env
